@@ -68,6 +68,11 @@ header-includes:
 
 (рис. [-@fig:001])
 
+
+![Console](image/2.png){ #fig:002 width=70% }
+
+(рис. [-@fig:002])
+
 # Выводы
 
 Был освоен язык разметки Markdown.
